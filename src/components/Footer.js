@@ -12,7 +12,7 @@ function Footer() {
             Alex Travick
           </Col>
           <Col md={3} className="p-0 d-flex justify-content-end">
-            This site was made by Alex Travick
+            Developed by Alex Travick
           </Col>
         </Row>
       </Container>
