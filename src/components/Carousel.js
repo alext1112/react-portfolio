@@ -15,7 +15,7 @@ class Carousel extends React.Component {
         {
           id: 0,
           title: 'Tech Bar',
-          subTitle: 'Your favorite drink finder!',
+          subTitle: 'A cocktail search app using fetch requests to the CocktailDB API. Created with HTML, CSS, and Javascript.',
           imgSrc: techbar,
           link: 'https://tech-bar.netlify.com',
           selected: false
